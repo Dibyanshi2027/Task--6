@@ -4,7 +4,7 @@
 Analyze monthly revenue and order volume using SQL aggregation.
 
 ## 🛠 Tools Used
-- SQLite / MySQL
+- SQLite 
 
 ## 📁 Dataset
 Table: online_sales
